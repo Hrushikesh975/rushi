@@ -1,0 +1,2 @@
+1. api(folder) Run /api/npm install to install node modules and start server by "npm start".
+2. client(folder) Run client/npm install to install node-modules and start server by "npm start".
